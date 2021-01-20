@@ -1,0 +1,13 @@
+D:\Directory project\C#\Test_Zone\Sund_Box\bin\Debug\netcoreapp3.1\Sund_Box.exe
+D:\Directory project\C#\Test_Zone\Sund_Box\bin\Debug\netcoreapp3.1\Sund_Box.deps.json
+D:\Directory project\C#\Test_Zone\Sund_Box\bin\Debug\netcoreapp3.1\Sund_Box.runtimeconfig.json
+D:\Directory project\C#\Test_Zone\Sund_Box\bin\Debug\netcoreapp3.1\Sund_Box.runtimeconfig.dev.json
+D:\Directory project\C#\Test_Zone\Sund_Box\bin\Debug\netcoreapp3.1\Sund_Box.dll
+D:\Directory project\C#\Test_Zone\Sund_Box\bin\Debug\netcoreapp3.1\Sund_Box.pdb
+D:\Directory project\C#\Test_Zone\Sund_Box\obj\Debug\netcoreapp3.1\Sund_Box.AssemblyInfoInputs.cache
+D:\Directory project\C#\Test_Zone\Sund_Box\obj\Debug\netcoreapp3.1\Sund_Box.AssemblyInfo.cs
+D:\Directory project\C#\Test_Zone\Sund_Box\obj\Debug\netcoreapp3.1\Sund_Box.csproj.CoreCompileInputs.cache
+D:\Directory project\C#\Test_Zone\Sund_Box\obj\Debug\netcoreapp3.1\Sund_Box.dll
+D:\Directory project\C#\Test_Zone\Sund_Box\obj\Debug\netcoreapp3.1\Sund_Box.pdb
+D:\Directory project\C#\Test_Zone\Sund_Box\obj\Debug\netcoreapp3.1\Sund_Box.genruntimeconfig.cache
+D:\Directory project\C#\Test_Zone\Sund_Box\obj\Debug\netcoreapp3.1\Sund_Box.csprojAssemblyReference.cache
